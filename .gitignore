@@ -4,6 +4,7 @@ __pycache__/
 *.egg-info/
 dist/
 *.sqlite3
+!backend/db.sqlite3
 venv/
 .venv/
 .env
